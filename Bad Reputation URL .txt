@@ -71,6 +71,7 @@ electrumx.bot.nu
 electrumx.ddns.net
 electrumx.electricnewyear.net
 electrumx.no-ip.eu
+epicunitscan.info
 fairu-schnellvpn.com
 fairu-cdn.com
 fairu-chat.com
