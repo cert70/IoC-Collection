@@ -1,3 +1,4 @@
+cursor-cdn.com
 s2.gsi-tracking.com
 nicehash.com
 5isohu.com
