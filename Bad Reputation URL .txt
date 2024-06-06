@@ -1,3 +1,4 @@
+gachi-lane.com
 dnsupdate.info
 ln.run
 api-user.dalyfeds.com
