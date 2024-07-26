@@ -1,4 +1,5 @@
 amunfezanttor.com
+cdn.polyfill.io
 polyfill.io
 dwhitdoedsrag.org
 i.ibb.co.com
