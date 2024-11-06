@@ -204,3 +204,5 @@ antepuroloji.com
 ubembed.com
 webserver.proxydns.com
 cswapper.freshcontacts.com
+*bkom.it
+46-234-233-14.ip.bkom.it
