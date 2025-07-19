@@ -247,3 +247,11 @@ api.nimblecapture.com
 kproxyservers.site
 *polyfill.io
 *supportsentparticle.com
+addoncrop.com
+infird.com
+119.81.63.232:30071
+overbridgenet.com
+browsersession.org
+okxac.okpool.top
+okxcab.okpool.top
+oast.pro
