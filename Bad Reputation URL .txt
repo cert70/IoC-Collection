@@ -255,3 +255,5 @@ browsersession.org
 okxac.okpool.top
 okxcab.okpool.top
 oast.pro
+jsdelivrs.com
+yonsei.lol
